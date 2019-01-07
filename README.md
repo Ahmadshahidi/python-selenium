@@ -15,7 +15,7 @@ have you ever tried to download JavaScript embedded pdfs from a website with pro
  - **Selenium + Python 3.7**
  Let's start by necessary imports:
 ```
-import time,os
+ import time,os
  import lxml,html
  from selenium import webdriver
  from selenium.webdriver.chrome.options import Options
@@ -27,7 +27,7 @@ import time,os
  run a 'chmod +x' on the downloaded file for it to be executable. If you are using windows just place the exe file somewhere and point to it.
 
 ```{python}
-chrome_options = Options()
+ chrome_options = Options()
  chrome_options.add_argument('--headless')
  chrome_options.add_argument('--no-sandbox')
  chrome_options.add_argument('--disable-dev-shm-usage')
