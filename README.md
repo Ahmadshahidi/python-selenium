@@ -129,4 +129,4 @@ for pdf in pdf_links:
 driver.close
 ```
 ## Wrapping it Up
-It will be a good idea to wrap this function in a decorator to log exceptions should any is raised. In my experience there would be a lot of them. Simple there is no file to download, files are corrupted and many more.  
+It will be a good idea to wrap this function in a decorator to log exceptions should any is raised. In my experience there would be a lot of them. Simplely there is no file to download, files are corrupted and many more.  
