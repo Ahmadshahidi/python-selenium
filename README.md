@@ -2,7 +2,7 @@
 # Python + Selenium Complex Web Scraping
 have you ever tried to download JavaScript embedded pdfs from a website with proxy,
  authentication, certificate verification, cookies, and other safeguards implemented
- all together? If your answer is yes then you know why I have the word "complex" in then
+ all together? If your answer is yes then you know why I have the word "complex" in the
  title :wink:.
 
  This instruction is written to help me remember what I did when I was working on a project
